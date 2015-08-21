@@ -1,0 +1,4 @@
+All the vowel data is available at 
+http://homepages.wmich.edu/~hillenbr/voweldata.html . You'll need 
+men.zip, women.zip, and children.zip. Simply uncompress and put the wav
+files in the data/ directory.
